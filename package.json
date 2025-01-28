@@ -1,0 +1,14 @@
+
+{
+  "name": "math_app_html_project",
+  "version": "1.0.0",
+  "description": "Math exercises app for kids using HTML, CSS, and JS.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
